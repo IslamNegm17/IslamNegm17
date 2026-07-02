@@ -1,7 +1,7 @@
 <div align="center">
-# Your Name
+Islam Negm
  
-### Embedded Linux • Yocto • Software Engineer
+### Embedded Software Engineer • Automotive
  
 ![Followers](https://img.shields.io/github/followers/yourusername?style=for-the-badge&color=blue&label=FOLLOWERS)
 ![Profile Views](https://komarev.com/ghpvc/?username=yourusername&style=for-the-badge&color=grey&label=PROFILE+VIEWS)
