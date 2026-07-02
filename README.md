@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://github.com/IslamNegm17">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=260&section=header&text=Islam%20Yasien%20Negm&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=Embedded%20Software%20%E2%80%A2%20Automotive%20%E2%80%A2%20RTOS%20Linux&descAlignY=60&descSize=20&animation=fadeIn" alt="banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=260&section=header&text=Islam%20Yasien%20Negm&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=Embedded%20Software%20%E2%80%A2%20Automotive%20%E2%80%A2%20Linux&descAlignY=60&descSize=20&animation=fadeIn" alt="banner" />
 </a>
 
 <a href="https://github.com/IslamNegm17">
