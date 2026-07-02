@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://github.com/IslamNegm17">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=260&section=header&text=Islam%20EL%20Negm&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=Embedded%20Linux%20%E2%80%A2%20Yocto%20%E2%80%A2%20Software%20Engineer&descAlignY=60&descSize=20&animation=fadeIn" alt="banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=260&section=header&text=Islam%20Yasien%20Negm&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=Embedded%20Linux%20%E2%80%A2%20Yocto%20%E2%80%A2%20Software%20Engineer&descAlignY=60&descSize=20&animation=fadeIn" alt="banner" />
 </a>
 
 <a href="https://github.com/IslamNegm17">
@@ -64,11 +64,9 @@ toolbox:     [ "GDB", "QEMU", "Buildroot", "CMake", "Docker" ]
 
 <div align="center">
 
-<a href="https://github.com/Moatasem-Elsayed"><img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="mailto:eng.moatasem.9@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/moatasem-el-sayed/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://www.youtube.com/@moatasemelsayed6226"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
-
+<a href="https://github.com/IslamNegm17"><img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="negm55400@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/islam-negm-061277203/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 </div>
 
