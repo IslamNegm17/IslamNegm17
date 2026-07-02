@@ -36,17 +36,14 @@ toolbox:     [ "GDB", "QEMU", "Buildroot", "CMake", "Docker" ]
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=c,cpp,python,bash,go,rust,typescript,java,cs" alt="langs" />
+<img src="https://skillicons.dev/icons?i=c,cpp,python,bash" alt="langs" />
 
 **Embedded / Linux / Build**
 
 <img src="https://skillicons.dev/icons?i=linux,raspberrypi,arduino,bash,cmake,docker,git,vim" alt="embedded" />
 <br/>
 <img src="https://img.shields.io/badge/Yocto-1A1A2E?style=for-the-badge&logo=yoctoproject&logoColor=00ADD8" />
-<img src="https://img.shields.io/badge/BitBake-1A1A2E?style=for-the-badge&logo=apachespark&logoColor=E97600" />
 <img src="https://img.shields.io/badge/OpenEmbedded-1A1A2E?style=for-the-badge&logo=embarcadero&logoColor=ff4081" />
-<img src="https://img.shields.io/badge/Buildroot-1A1A2E?style=for-the-badge&logo=alpinelinux&logoColor=0D597F" />
-<img src="https://img.shields.io/badge/U--Boot-1A1A2E?style=for-the-badge&logo=ubuntu&logoColor=FFB300" />
 <img src="https://img.shields.io/badge/QEMU-1A1A2E?style=for-the-badge&logo=qemu&logoColor=FF6600" />
 <img src="https://img.shields.io/badge/FreeRTOS-1A1A2E?style=for-the-badge&logo=freebsd&logoColor=8CC84B" />
 <img src="https://img.shields.io/badge/GDB-1A1A2E?style=for-the-badge&logo=gnu&logoColor=A42E2B" />
@@ -60,6 +57,18 @@ toolbox:     [ "GDB", "QEMU", "Buildroot", "CMake", "Docker" ]
 <img src="https://img.shields.io/badge/UART%20%E2%80%A2%20I2C%20%E2%80%A2%20SPI-1A1A2E?style=for-the-badge" />
 <img src="https://img.shields.io/badge/SOME%2FIP-vsomeip-2C5364?style=for-the-badge" />
 <img src="https://img.shields.io/badge/CAN%20Bus-0F2027?style=for-the-badge" />
+
+</div>
+
+### <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="28"> Let's Connect
+
+<div align="center">
+
+<a href="https://github.com/Moatasem-Elsayed"><img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="mailto:eng.moatasem.9@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/moatasem-el-sayed/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.youtube.com/@moatasemelsayed6226"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+
 
 </div>
 
